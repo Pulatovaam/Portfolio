@@ -6,6 +6,7 @@ The purpose of the project:
 3. Create a table view with a report on brands
 
 Requirements for the Airflow DAG:
+
 1.The DAG has no schedule (schedule_interval=None)
 2. Each Spark task is executed in its own task (separate submit)
 3. All tasks are performed in parallel
