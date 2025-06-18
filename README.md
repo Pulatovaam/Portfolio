@@ -1,7 +1,9 @@
-![](https://disk.yandex.ru/i/njMwZoCT4EdwnA)
+<h1 align="center"><img src="https://github.com/user-attachments/assets/ec5b995f-7c32-4550-b080-4e78c447d293" height="500"/></h1>
 
 
-# Привет, меня зовут Анастасия!
+<h1 align="center"> Привет, меня зовут Анастасия!  
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+
 
 The purpose of the project:
 1. Create a data showcase for analysts that will contain aggregated metrics on product cards, popular categories, and others.
