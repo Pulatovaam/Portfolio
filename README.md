@@ -1,5 +1,8 @@
-# Portfolio
-Portfolio-Anastasia
+![](https://disk.yandex.ru/i/njMwZoCT4EdwnA)
+
+
+# Привет, меня зовут Анастасия!
+
 The purpose of the project:
 1. Create a data showcase for analysts that will contain aggregated metrics on product cards, popular categories, and others.
 2. Create a table view with a list of unreliable sellers.
